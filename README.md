@@ -1,11 +1,11 @@
 
 React Native安装环境，这里的准备工作，主要分为如下几点：
-   \n安装jdk，配置jdk的环境变量
-   \n配置android开发环境，配置sdk的环境，这里的sdk必须有23版本
-   \n安装genymotion，当然这里也可以使用真机调试
-   \n安装git
-   \n安装node.js 并配置环境变量 https://nodejs.org/en/
-  \n react native环境搭建
+   安装jdk，配置jdk的环境变量
+   配置android开发环境，配置sdk的环境，这里的sdk必须有23版本
+   安装genymotion，当然这里也可以使用真机调试
+   安装git
+   安装node.js 并配置环境变量 https://nodejs.org/en/
+   react native环境搭建
 
 1.上面的准备工作相对来说比较简单，这里我就不一一演示了，需要的朋友可以自行google，
 下面正式开始搭建React native开发环境。这里，我在e盘下创建一个reactnative目录，
